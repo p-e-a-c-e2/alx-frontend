@@ -1,8 +1,0 @@
-emacs25-bin-common binary: setgid-binary usr/lib/emacs/25.2/x86_64-linux-gnu/movemail 2755 root/mail
-emacs25-bin-common binary: binary-without-manpage usr/bin/b2m.emacs25
-emacs25-bin-common binary: binary-without-manpage usr/bin/ctags.emacs25
-emacs25-bin-common binary: binary-without-manpage usr/bin/ebrowse.emacs25
-emacs25-bin-common binary: binary-without-manpage usr/bin/emacsclient.emacs25
-emacs25-bin-common binary: binary-without-manpage usr/bin/etags.emacs25
-emacs25-bin-common binary: binary-without-manpage usr/bin/grep-changelog.emacs25
-emacs25-bin-common binary: binary-without-manpage usr/bin/rcs-checkin.emacs25
